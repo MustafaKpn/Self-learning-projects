@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import Cell from "./components/cell";
+import Cell from "./components/Cell";
 import words from "./components/wordsList.json";
 import clickSound from "./components/clickSound.wav";
 import winSound from "./components/winSound.mp3";
