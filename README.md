@@ -1,5 +1,3 @@
-# THG-Accelerator
-
 ## Project Overview
 
 This repository contains two small games implemented with different technologies to demonstrate user interface development, game logic design, and basic decision-making algorithms.
